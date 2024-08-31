@@ -1,0 +1,2 @@
+yes this is not good looking, its just a random tool
+but to install BDD quickly from terminal just use
